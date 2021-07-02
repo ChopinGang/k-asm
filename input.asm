@@ -1,6 +1,6 @@
 lda #45
 nop
-nop
+nop ; this is just example code
 and $0043
 adc #$01
 jmp $04
