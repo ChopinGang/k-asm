@@ -2,9 +2,9 @@
 an assembler for the architecture k00.
 
 supports:
+
 	addressing modes:
 		implied, accumulator, x-register, y-register, absolute, immediate
-	
 	opcodes:
 		nop lda adc sta cmp jmp and asl bit brk clc cld
 		cli clv cpx cpy dec eor inc jsr ldx ldy lsr ora
